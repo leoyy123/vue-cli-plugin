@@ -28,6 +28,7 @@ function getEntryPages() {
     }
   } catch (e) {
     console.log(e.message); // eslint-disable-line
+    console.log(1); // eslint-disable-line
   }
   return result;
 }

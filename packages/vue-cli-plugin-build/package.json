@@ -3,7 +3,7 @@
   "version": "0.0.15",
   "description": "构建代码",
   "author": "Jhin <jhin@micous.com>",
-  "homepage": "https://github.com/hpstream/vue-cli-plugins/tree/main/packages/vue-cli-plugin-build#readme",
+  "homepage": "https://github.com/leoyy123/vue-cli-plugin/tree/master/packages/vue-cli-plugin-build#readme",
   "license": "ISC",
   "main": "index.js",
   "directories": {
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hpstream/vue-cli-plugins.git"
+    "url": "git+https://github.com/leoyy123/vue-cli-plugin.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/hpstream/vue-cli-plugins/issues"
+    "url": "https://github.com/leoyy123/vue-cli-plugin/issues"
   },
   "gitHead": "2f91c0f5b5f7f6e41f98ac5ee487e141e54681b4"
 }

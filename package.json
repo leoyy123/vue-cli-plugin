@@ -20,6 +20,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoyy123/vue-cli-plugin/issues"
+  },
+  "homepage": "https://github.com/leoyy123/vue-cli-plugin#readme",
   "description": "",
   "dependencies": {
     "axios": "^0.24.0",

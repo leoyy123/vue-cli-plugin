@@ -1,6 +1,6 @@
 {
   "name": "@gyh/vue-cli-plugin-build",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "构建代码",
   "author": "Jhin <jhin@micous.com>",
   "homepage": "https://github.com/leoyy123/vue-cli-plugin/tree/master/packages/vue-cli-plugin-build#readme",

@@ -14,7 +14,7 @@ module.exports = (api, vueOptions) => {
        compression(api, vueOptions)
        
       //  console.log(`👋  Hello compressImage`)
-       console.log(api.exitLog)
+      //  console.log(api.exitLog)
       //  console.log(vueOptions.compressImage)
      }
    )

@@ -1,5 +1,5 @@
 {
-  "name": "@gyh/vue-cli-plugin-mock",
+  "name": "@jhin/vue-cli-plugin-mock",
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Jhin <jhin@micous.com>",
@@ -35,5 +35,5 @@
     "chokidar": "^3.5.2",
     "fs-extra": "^10.0.0"
   },
-  "gitHead": "928ac8d3bb93268bc879fd27495ee846a20de504"
+  "gitHead": "8cc95b36d14b89a9aaa95910ce9ed7377e435d93"
 }

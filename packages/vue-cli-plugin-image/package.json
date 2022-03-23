@@ -1,5 +1,5 @@
 {
-  "name": "@jhin/vue-cli-plugin-image",
+  "name": "@gyh-cli/vue-cli-plugin-image",
   "version": "1.0.10",
   "description": "> TODO: description",
   "author": "Jhin <jhin@micous.com>",
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/leoyy123/vue-cli-plugin/issues"
   },
-  "gitHead": "d57a10a487b76e50376c2d614e813ee7f3d1d7a3"
+  "gitHead": "e446afcbad0389e68da86e52b250daabb676027c"
 }

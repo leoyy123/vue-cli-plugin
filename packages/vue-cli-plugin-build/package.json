@@ -1,5 +1,5 @@
 {
-  "name": "@jhin/vue-cli-plugin-build",
+  "name": "@gyh-cli/vue-cli-plugin-build",
   "version": "1.0.4",
   "description": "构建代码",
   "author": "Jhin <jhin@micous.com>",

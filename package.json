@@ -1,5 +1,5 @@
 {
-  "name": "gyh-plugin",
+  "name": "gyh-cli",
   "private": false,
   "devDependencies": {
     "lerna": "^4.0.0"

@@ -1,5 +1,5 @@
 {
-  "name": "gyh-jhin",
+  "name": "gyh-plugin",
   "private": false,
   "devDependencies": {
     "lerna": "^4.0.0"

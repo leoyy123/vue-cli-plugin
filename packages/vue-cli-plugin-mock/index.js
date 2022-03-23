@@ -7,7 +7,7 @@ module.exports = (api, vueOptions) => {
     matchProxyList
   } = vueOptions.pluginOptions || {};
   if (mock) {
-
+    console.log(1);
     vueOptions.devServer.before = (app) => {
       webpackDevMocker(app, {
         matchProxyList: (Array.isArray(matchProxyList) ? matchProxyList : []),

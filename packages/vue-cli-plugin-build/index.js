@@ -4,6 +4,7 @@ const path = require('path');
 function getEntryPages() {
   const result = {};
   try {
+    console.log('master');
     const pagesPath = path.resolve(process.cwd(), './src/pages');
     if (fs.existsSync(pagesPath)) {
       fs.readdirSync(pagesPath)

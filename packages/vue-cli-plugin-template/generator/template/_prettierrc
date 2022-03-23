@@ -1,0 +1,18 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "printWidth": 100,
+  "endOfLine": "auto",
+  "arrowParens": "always",
+  "vueIndentScriptAndStyle": true,
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": {
+        "parser": "json"
+      }
+    }
+  ]
+}
